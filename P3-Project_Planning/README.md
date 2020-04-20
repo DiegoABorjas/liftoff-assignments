@@ -23,4 +23,4 @@ Link to project tracker
 
 ### Project Repo Link
 
-[Project Repo Link](https://github.com/diegoauron/liftoff-assignments)
+[Project Repo Link](https://github.com/diegoauron/Sportsbud)
