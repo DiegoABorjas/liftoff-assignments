@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn](https://www.linkedin.com/in/diego-borjas-gonzalez-aa746aa2/).
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume](https://github.com/DiegoABorjas/liftoff-assignments/blob/master/C1-Online_Profiles/Copy%20of%20LC%20RESUME%20TEMPLATE_%20Yes%20Experience_Yes%20Degree%20021219%20.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
