@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[Github](https://github.com/DiegoABorjas).
+[Github](https://github.com/DiegoABorjas)
  
 ### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/diego-borjas-gonzalez-aa746aa2/).
+[LinkedIn](https://www.linkedin.com/in/diego-borjas-gonzalez-aa746aa2/)
 
 ### Resume
 [Resume](https://github.com/DiegoABorjas/liftoff-assignments/blob/master/C1-Online_Profiles/Copy%20of%20LC%20RESUME%20TEMPLATE_%20Yes%20Experience_Yes%20Degree%20021219%20.pdf)
