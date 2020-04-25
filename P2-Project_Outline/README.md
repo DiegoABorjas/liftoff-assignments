@@ -15,12 +15,15 @@ My project will be a web application that helps people find other people around 
 * For now I will just use the email (which users will put in when they register) as way of contacting between the users.
 *
 ### Technologies
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-Bootstrap
+MongoDB
+Express
+Angular
+NodeJS
+
 ### What I'll Have to Learn
-I am not sure how connecting a database works with JavaScript/Angular. So far I've only worked with JSON files, so I will need to figure this out.
+MongoDB
+Express
+Connect Angular with MongoDB
+Others, will update soon.
 ### Project Tracker
 https://trello.com/b/XWKJeYno/lc-project

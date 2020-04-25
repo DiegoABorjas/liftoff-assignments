@@ -23,4 +23,4 @@ Link to project tracker
 
 ### Project Repo Link
 
-[Project Repo Link](https://github.com/diegoauron/Sportsbud)
+[Project Repo Link](https://github.com/diegoauron/SportsBud)
